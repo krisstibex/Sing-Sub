@@ -433,7 +433,9 @@
     {
       "tag": "All",
       "type": "selector",
-      "outbounds": []
+      "outbounds":[
+        "{all}"
+      ]
     },
     {
       "tag": "Direct",

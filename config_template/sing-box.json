@@ -58,6 +58,12 @@
         "outbound": "dns-out"
       },
       {
+        "domain_suffix": [
+          ".github.com",
+          ".githubusercontent.com"
+        ],
+        "outbound": "Github"
+      {
         "ip_is_private": true,
         "outbound": "Direct"
       },

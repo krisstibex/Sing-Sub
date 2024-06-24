@@ -448,6 +448,10 @@
       "type": "direct"
     },
     {
+      "tag": "Direct4EmptyGroup",
+      "type"= "direct"
+    },
+    {
       "tag": "block",
       "type": "block"
     },

@@ -1,22 +1,22 @@
 {
     "subscribes":[
         {
-            "url": "URL",
-            "tag": "tag_1",
+            "url": "https://exapmle.com/sub",
+            "tag": "Subscribe",
             "enabled": true,
             "emoji": 1,
             "subgroup": "",
             "prefix": "",
-            "User-Agent":"v2rayng"
+            "User-Agent":"v2ray"
         },
         {
-            "url": "URL",
-            "tag": "tag_2",
+            "url": "你的订阅链接",
+            "tag": "订阅的别名",
             "enabled": false,
             "emoji": 0,
             "subgroup": "命名/named",
-            "prefix": "❤️",
-            "User-Agent":"clashmeta"
+            "prefix": "节点的前缀",
+            "User-Agent":"拉取订阅的UA"
         }
     ],
     "auto_set_outbounds_dns":{
